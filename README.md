@@ -1,5 +1,4 @@
-# tuto_git
+# Snell_descartes
 
-je suis un texte dans le README
+ce code en processing simule la loi de snell-descartes, pour le changement de direction des rayons quand ils traversent un milieu 
 
-je suis un deuxième texte
